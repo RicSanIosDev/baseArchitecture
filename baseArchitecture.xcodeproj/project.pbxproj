@@ -71,7 +71,7 @@
 		445C1F15265CBB6D005BDD93 /* SplashPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445C1F14265CBB6D005BDD93 /* SplashPresenter.swift */; };
 		445C1F19265CBC0A005BDD93 /* PrimaryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445C1F18265CBC0A005BDD93 /* PrimaryViewController.swift */; };
 		445C1F1D265CBECC005BDD93 /* LoginResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 445C1F1C265CBECC005BDD93 /* LoginResponse.swift */; };
-		445C1F53265CCE92005BDD93 /* Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png in Resources */ = {isa = PBXBuildFile; fileRef = 445C1F52265CCE92005BDD93 /* Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png */; };
+		445C1F53265CCE92005BDD93 /* welcome.png in Resources */ = {isa = PBXBuildFile; fileRef = 445C1F52265CCE92005BDD93 /* welcome.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -140,7 +140,7 @@
 		445C1F14265CBB6D005BDD93 /* SplashPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashPresenter.swift; sourceTree = "<group>"; };
 		445C1F18265CBC0A005BDD93 /* PrimaryViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PrimaryViewController.swift; sourceTree = "<group>"; };
 		445C1F1C265CBECC005BDD93 /* LoginResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginResponse.swift; sourceTree = "<group>"; };
-		445C1F52265CCE92005BDD93 /* Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png"; sourceTree = "<group>"; };
+		445C1F52265CCE92005BDD93 /* welcome.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = welcome.png; sourceTree = "<group>"; };
 		AE5DED22F9CCE337F9C36D63 /* libPods-baseArquitecture.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-baseArquitecture.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BADFAF9127CE95DF3D919ED3 /* Pods-baseArquitecture.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baseArquitecture.debug.xcconfig"; path = "Target Support Files/Pods-baseArquitecture/Pods-baseArquitecture.debug.xcconfig"; sourceTree = "<group>"; };
 		E4C61F4B02C58ADCEF218A7D /* Pods-baseArquitecture.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-baseArquitecture.release.xcconfig"; path = "Target Support Files/Pods-baseArquitecture/Pods-baseArquitecture.release.xcconfig"; sourceTree = "<group>"; };
@@ -171,7 +171,7 @@
 			isa = PBXGroup;
 			children = (
 				445C1F51265CCE66005BDD93 /* ImageFile */,
-				445C1F52265CCE92005BDD93 /* Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png */,
+				445C1F52265CCE92005BDD93 /* welcome.png */,
 				445C1DF9265CAE01005BDD93 /* Source */,
 				445C1DF8265CAE01005BDD93 /* Products */,
 				1CA09958E25D778C44A8EB49 /* Pods */,
@@ -709,7 +709,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				445C1E07265CAE01005BDD93 /* LaunchScreen.storyboard in Resources */,
-				445C1F53265CCE92005BDD93 /* Simulator Screen Shot - iPhone 12 Pro Max - 2021-05-25 at 02.13.36.png in Resources */,
+				445C1F53265CCE92005BDD93 /* welcome.png in Resources */,
 				445C1E04265CAE01005BDD93 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
