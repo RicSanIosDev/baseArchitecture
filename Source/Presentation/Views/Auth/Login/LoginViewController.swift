@@ -64,7 +64,8 @@ class LoginViewController: BaseViewController<LoginPresenter> {
 
     @objc func loginButtonPressed(_ sender: UIButton) {
         guard let email = emailTextField.text, let pass = passwordTextField.text else { return }
-        presenter.login(email: email, password: pass)
+    //presenter.login(email: email, password: pass)
+    presenter.login()         
     }
 }
 
