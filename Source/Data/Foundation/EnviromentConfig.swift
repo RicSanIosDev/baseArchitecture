@@ -16,6 +16,6 @@ enum NetworkEnvironment {
 class EnviromentConfig {
 
     static let shared: EnviromentConfig = EnviromentConfig()
-    let baseUrl = "https://intergrow.site/api"
+    let baseUrl = "url"
     init() {}
 }
