@@ -31,5 +31,6 @@ class LoginPresenter: BasePresenter {
     //test login view
     func loginTest(email: String, password: String) {
         wireframe?.tabBar().replaceAppRootViewController()
+    }
 }
 
