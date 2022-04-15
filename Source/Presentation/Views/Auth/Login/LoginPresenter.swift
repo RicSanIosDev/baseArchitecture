@@ -28,5 +28,8 @@ class LoginPresenter: BasePresenter {
                 wireframe?.tabBar().replaceAppRootViewController()
             }).disposed(by: disposeBag)
     }
+    //test login view
+    func login(email: String, password: String) {
+        wireframe?.tabBar().replaceAppRootViewController()
 }
 
